@@ -1,4 +1,5 @@
 '''此模块封装了用于和MySQL交互的类'''
+//helloworld
 import pymysql
 
 class MysqlHelp:
